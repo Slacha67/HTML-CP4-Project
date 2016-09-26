@@ -4,20 +4,24 @@
 <title>This is a CP4 prodject for Harambe</title>
 </head>
 <body>
+<body background="Ia5HD7J.jpg">
+
 
 <center>
-<h1>This is for Harambe</h1>
+<font color="white<h1>This is for Harambe</h1>
 <p>Once upon a time, Harambe was just a peacefull animal...<br> But then... A poem emerged,... <br> <b>Harambe Potter and the cursed child who got me shot.</b> </p>
 <img src="harambe_main.0.0.jpg" alt="Harambe got shot and might be absent" width="720px" height="600px">
 <p>The new pokemons are so amazing....They are out of this world!!!!!<br> Quite literally out of this world,<strong> A Pokemon from space!!! </strong> </p>
 <img src="images.jpg" alt="new pokemon" width="720px" height="600px">
 <p><i>Name this Pokemon</i> <br> Hint Hint,,,,, Harambe</p>
-<img src="63f923fe2c425797c5142d8e8e360540a4a167d27601e43292200e60d4394138_1.jpg" alt="It's nearby" width="720px" height="600px">
+<img src="63f923fe2c425797c5142d8e8e360540a4a167d27601e43292200e60d4394l138_1.jpg" alt="It's nearby" width="720px" height="600px">
 <p><em>Look what's Neraby</em> </p>
 <img src="url.jpg" alt="New card" width="720" height="600">
 <p>A <del>new</del> <ins>card</ins> exists,<small> It is real</small> <br> <sub>This is very low</sub> <sup>This is very high</sup> </p>
 <h1>Harambe is the best Because:</h1>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rg6CiPI6h2g?rel=0;&autoplay=1" frameborder="0" allowfullscreen></iframe>
 <ul>
+<center>
  <li>First Thing</li>
  <li>Second Thing</li>
  <li>Third Thing etc...</li>
@@ -56,9 +60,9 @@ border: 1px solid black;
 <td>Example</td>
 </tr>
 </table>
-<center>
-<div style="background-color:black;color:white;padding:20px;">
-<h2>London</h2>
+
+<div style="background-color:red;color:white;padding:20px;">
+<h2>Harambe</h2>
 <p>This is just a really long example demonstrating a div-block. Blah, blah ,blah ,blah ,blah blah blah</p>
 </div>
 <!--This is what a comment is supposed to look like-->
