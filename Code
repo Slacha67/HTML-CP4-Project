@@ -16,9 +16,51 @@
 <p><em>Look what's Neraby</em> </p>
 <img src="url.jpg" alt="New card" width="720" height="600">
 <p>A <del>new</del> <ins>card</ins> exists,<small> It is real</small> <br> <sub>This is very low</sub> <sup>This is very high</sup> </p>
-<h1>This is the End of the world</h1>
+<h1>Harambe is the best Because:</h1>
+<ul>
+ <li>First Thing</li>
+ <li>Second Thing</li>
+ <li>Third Thing etc...</li>
+</ul>
+<ol>
+ <li>Numbered List</li>
+ <li>Again</li>
+ <li>And again</li>
+</ol>
+<style>
+table, th, td {
+border: 1px solid black;
+}
+</style>
+</head>
+<body>
+<table style="width:100%">
+<tr>
+<th>Harambe</th>
+<th>Pokemon</th>
+<th>Ash</th>
+</tr>
+<tr>
+<td>Example</td>
+<td>Example</td>
+<td>Example</td>
+</tr>
+<tr>
+<td>Example</td>
+<td>Example</td>
+<td>Example</td>
+</tr>
+<tr>
+<td>Example</td>
+<td>Example</td>
+<td>Example</td>
+</tr>
+</table>
 <center>
-
-
+<div style="background-color:black;color:white;padding:20px;">
+<h2>London</h2>
+<p>This is just a really long example demonstrating a div-block. Blah, blah ,blah ,blah ,blah blah blah</p>
+</div>
+<!--This is what a comment is supposed to look like-->
 </body>
 </html>
