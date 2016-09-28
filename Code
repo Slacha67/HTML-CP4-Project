@@ -65,6 +65,32 @@ border: 1px solid black;
 <h2>Harambe</h2>
 <p>This is just a really long example demonstrating a div-block. Blah, blah ,blah ,blah ,blah blah blah</p>
 </div>
-<!--This is what a comment is supposed to look like-->
+<!--This is what a comment is supposed to look like!-->
+<form action="action_page.php">
+First name:<br>
+<input type="text" name="firstname" value="Sacha">
+<br>
+Last name:<br>
+<input type="text" name="lastname" value="Mancuso">
+<br><br>
+<input type="submit" value="Submit">
+<input type="reset">
+</form>
+<form>
+  User name:<br>
+  <input type="text" name="username"><br>
+  User password:<br>
+  <input type="password" name="password">
+  <input type="submit" value="Submit">
+<input type="reset">
+</form>
+<p>What do you like more</p>
+<form>
+  <input type="radio" name="answer" value="pokemon" checked> Pokemon<br>
+  <input type="radio" name="answer" value="Pokemon"> Pokemon<br>
+  <input type="radio" name="answer" value="Pokemon"> Pokemon
+</form>
+
+
 </body>
 </html>
